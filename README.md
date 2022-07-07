@@ -66,6 +66,8 @@ V4=4.69
 
 ![image](https://user-images.githubusercontent.com/105687213/177866847-c33080c0-7e9d-4ccf-8618-da0b9ba2cec9.png)
 
+![image](https://user-images.githubusercontent.com/105687213/177867018-72d4f989-0336-4cf5-ad99-1070431d6774.png)
+
 I1=1.24 
 
 I2=2.05
@@ -130,7 +132,6 @@ Se deduce que la corriente que entra es la misma que sale por lo tanto I1=100mA
 I2=(100/147)(100)=68.03mA
 
 
-![image](https://user-images.githubusercontent.com/105687213/177867018-72d4f989-0336-4cf5-ad99-1070431d6774.png)
 
 Metodo de la corriente en  lazos
 
