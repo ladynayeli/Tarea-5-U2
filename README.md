@@ -239,9 +239,9 @@ Método del voltaje en nodos
 
 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
 
-![image](https://user-images.githubusercontent.com/105687213/177874292-014785c2-7517-4bfe-beb7-2b6065dc24ba.png)
+![image](https://user-images.githubusercontent.com/105687213/177883190-715f4c4e-6174-4345-aec6-64f83c0043fd.png)
 
-![image](https://user-images.githubusercontent.com/105687213/177874313-21474660-35b8-44e2-8b0f-df11f88e1e71.png)
+![image](https://user-images.githubusercontent.com/105687213/177883204-45d52ffb-8885-4478-a592-98b9e088e8b2.png)
 
 IA+IB+IC=0
 
@@ -257,7 +257,8 @@ VA=28.32V
 
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
-![image](https://user-images.githubusercontent.com/105687213/177876717-0e27a273-ffac-4177-b273-b2cdeb204253.png)
+![image](https://user-images.githubusercontent.com/105687213/177883277-679d96c2-2e47-4594-a3e6-631a66e3f3b8.png)
+
 
 Nodo A:I1=I2+I3+I4
 
@@ -314,7 +315,8 @@ Electromagnetism
 
 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
 
-![image](https://user-images.githubusercontent.com/105687213/177877235-baa13042-d9a0-49eb-8423-f747b9a37290.png)
+![image](https://user-images.githubusercontent.com/105687213/177882848-e43d2aac-c67d-4883-935c-743dc9de6e2e.png)
+
 
 Si la corriente que pasa por el conductor se invierte, la rotación de las líneas de fuerza también se invertirían por ende la brújula llegaría a mostrar el lado opuesto. 
 
@@ -327,15 +329,16 @@ Dispositivos electromagneticos
 
 10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
 
+![image](https://user-images.githubusercontent.com/105687213/177882734-2095a003-11b6-4f46-b9f7-6c114fc32111.png)
 
-![image](https://user-images.githubusercontent.com/105687213/177877482-bbe733f2-0032-4f52-b7da-f1e01a2af28f.png)
 
 
 Cuando se llega a energizar un solenoide el émbolo de imán se llega a retraer, como se ve en la figura.
 
 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
 
-![image](https://user-images.githubusercontent.com/105687213/177877515-2e6f5c31-a2e3-4149-b18f-2578e9f004ff.png)
+![image](https://user-images.githubusercontent.com/105687213/177882503-a47995bb-a578-4004-9b42-e4312873d360.png)
+
 
 El circuito esta alimentado por una fuente de voltaje, y si el interruptor 1 (SW1) se cierra permite el paso de la corriente de la fuente hacia la bobina del relevador, la cual energiza el contacto que esta alimentado por 9V haciendo que se cierre y a su vez este ilumine las lámparas 1 y 2.
 
