@@ -426,6 +426,7 @@ Como una rotación tiene cuatro posiciones, entonces el voltaje de cd de salida 
 -------------------------
 4.-Video
 
+https://youtu.be/TQMc_xulK9U
 
 
 5.-Conclusiones
