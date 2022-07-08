@@ -82,7 +82,7 @@ Metodo de corrientes en ramas
  
 Sistema de Ecuaciones
 
-(8.2) I2+10I2-12=0 (1)
+(8.2) I1+10I2-12=0 (1)
 
 10I2+(5.6) I3-6=0 (2)
 
